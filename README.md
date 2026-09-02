@@ -17,8 +17,8 @@ Each task is implemented in a separate Python file and demonstrates different pr
 | 5    | Important Functions          | [Task 5](task_5.py) |
 | 6    | Filtering &Conditional select| [Task 6](task_6.py) |
 | 7    | Grouping & Basic Analysis    | [Task 7](task_7.py) |
-| 8    | Pandas Plotting              | [Task 7](task_7.py) |
-| 9    | Sales Data Analysis(mini use)| [Task 7](task_7.py) |
+| 8    | Pandas Plotting              | [Task 8](task_8.py) |
+| 9    | Sales Data Analysis(mini use)| [Task 9](task_9.py) |
 
 
 ## How to Run
